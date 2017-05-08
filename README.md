@@ -1,4 +1,4 @@
 # TCPChat
 
-Gregory Leonberg
-Andrew Kennedy
+Gregory Leonberg  
+Andrew Kennedy  
